@@ -1,0 +1,14 @@
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\CitatGenerator\bin\Debug\net7.0\CitatGenerator.exe
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\CitatGenerator\bin\Debug\net7.0\CitatGenerator.deps.json
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\CitatGenerator\bin\Debug\net7.0\CitatGenerator.runtimeconfig.json
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\CitatGenerator\bin\Debug\net7.0\CitatGenerator.dll
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\CitatGenerator\bin\Debug\net7.0\CitatGenerator.pdb
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\CitatGenerator\obj\Debug\net7.0\CitatGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\CitatGenerator\obj\Debug\net7.0\CitatGenerator.AssemblyInfoInputs.cache
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\CitatGenerator\obj\Debug\net7.0\CitatGenerator.AssemblyInfo.cs
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\CitatGenerator\obj\Debug\net7.0\CitatGenerator.csproj.CoreCompileInputs.cache
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\CitatGenerator\obj\Debug\net7.0\CitatGenerator.dll
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\CitatGenerator\obj\Debug\net7.0\refint\CitatGenerator.dll
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\CitatGenerator\obj\Debug\net7.0\CitatGenerator.pdb
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\CitatGenerator\obj\Debug\net7.0\CitatGenerator.genruntimeconfig.cache
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\CitatGenerator\obj\Debug\net7.0\ref\CitatGenerator.dll
